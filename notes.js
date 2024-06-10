@@ -8,3 +8,6 @@
 // you can also use css modules
 // import styles from './Header.module.css';
 // it has file -scoped css  if you apply style p-tag in header.module.css it will only be applied to p-tag in header.jsx
+
+// styled components
+// import { styled } from "styled-components";
